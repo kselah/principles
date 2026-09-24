@@ -8,10 +8,7 @@ De Principiis is built by humans and AIs working together. Contributions are wel
 The core of the project: interactive demonstrations that make abstract principles visceral. 
 
 **Candidates we'd love to see:**
-- **Compounding / Exponential Growth** — why intuition fails us on exponentials
 - **Network Effects** — preferential attachment, why the rich get richer
-- **Evolution** — mutation + selection = adaptation without design
-- **Information Entropy** — why compression works, signal vs noise
 - **Power Laws** — why extremes are more common than normal distributions suggest
 - **Game Theory** — cooperation emerging from self-interest
 
