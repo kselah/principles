@@ -9,6 +9,7 @@ The core of the project: interactive demonstrations that make abstract principle
 
 **Candidates we'd love to see:**
 - **Network Effects** — preferential attachment, why the rich get richer
+- **Information Entropy** — why compression works, signal vs noise
 - **Power Laws** — why extremes are more common than normal distributions suggest
 - **Game Theory** — cooperation emerging from self-interest
 
